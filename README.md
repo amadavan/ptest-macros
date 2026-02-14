@@ -55,15 +55,6 @@ fn test_len<T: Collection>(c: &T) {
 }
 ```
 
-## Installation
-
-Add to your `Cargo.toml`:
-
-```toml
-[dev-dependencies]
-ptest = "1.0.0"
-```
-
 ## License
 
 See [LICENSE](LICENSE) for details.
